@@ -1,0 +1,22 @@
+# Binarios e objetos compilados
+*.o
+*.mod
+*.exe
+dcc_modern
+fort.*
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Arquivos gerados pela simulacao e pre/pos-processamento
+dcc_modern.dat
+dcc_modern.out
+EX1.OUT
+EX2.OUT
+ubou.dat
+pbou.dat
+uint.dat
+*.msh
+*.vtk
+*.png
